@@ -77,8 +77,3 @@ My name is Rigoberto Ponce, and I'm an aspiring Data Scientist.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"/>
   </a>
 </p>
-
-
-
-![Snake animation](https://raw.githubusercontent.com/Rigo-stack/Rigo-stack/output/github-contribution-grid-snake.svg)
-
